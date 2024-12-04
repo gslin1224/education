@@ -1,0 +1,44 @@
+#-------------------------------
+# General Site Settings
+title: Top拓樸補習班
+logo: index.jpg # You can add own logo.
+description: Top拓樸補習班
+
+
+#------------------------------
+# Author Settings
+author:
+  name: Top拓樸補習班
+  image: index.jpg
+  say-hello: <strong>歡迎蒞臨, 拓樸補習班</strong>
+  bio: 我們是一群熱情的拓樸補習班老師，製作這個網站是希望在此的你可以輕鬆找到有關 <strong>數學</strong>、<strong>理化</strong>、<strong>英文</strong> 等學科的精選學習資源與科普知識。如果覺得我們的網站不錯，請記得在下方<strong>追蹤</strong>我們的粉絲團，我們將不定期推送最新的<strong>學習技巧</strong>與<strong>課程資訊</strong>給你！
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/ # Add your Twitter handle
+facebook: https://www.facebook.com/TOP0932316668?mibextid=LQQJ4d&mibextid=LQQJ4d # Add your Facebook handle
+dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/ # Add your Instagram handle
+pinterest: https://pinterest.com/ # Add your Pinterest handle
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
+instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
